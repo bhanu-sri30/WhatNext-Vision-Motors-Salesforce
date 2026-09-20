@@ -1,3 +1,4 @@
+<img width="1888" height="976" alt="vehicle-object-fields" src="https://github.com/user-attachments/assets/82b7fde3-0c43-4490-b87d-f76b711e6201" />
 # Project Screenshots
 
 This folder contains screenshots of the Salesforce implementation.
